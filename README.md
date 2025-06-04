@@ -21,13 +21,13 @@ Navigate between pages to see different effects:
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/MatisAgr/Troubleshooting_TracingBeam_ShootingStars_AceternityUI.git
 cd Troubleshooting_TracingBeam_ShootingStars_AceternityUI
 ```
 
 2. **Install dependencies:**
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 3. **Start the development server:**
