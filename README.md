@@ -4,7 +4,7 @@ A modern React application showcasing **Aceternity UI components** with shooting
 
 ## 🚀 Live Demo
 
-### See the [Codesandbox](https://codesandbox.io/p/github/MatisAgr/Troubleshooting_TracingBeam_ShootingStars_AceternityUI/main?import=true)
+### See the [Codesandbox](https://codesandbox.io/p/github/MatisAgr/Troubleshooting_TracingBeam_ShootingStars_AceternityUI/draft/peaceful-andras)
 
 Navigate between pages to see different effects:
 - **Home (`/`)**: Shooting stars with enhanced visibility (configs boosted for demo)
